@@ -1,0 +1,5 @@
+{ "items": [
+  { "type": "file", "path": "00 Accueil.md", "title": "Accueil" },
+  { "type": "file", "path": "Plan 26 semaines.md", "title": "Plan 26 semaines" },
+  { "type": "file", "path": "GLOSSAIRE.md", "title": "Glossaire" }
+] }

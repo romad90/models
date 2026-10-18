@@ -1,0 +1,14 @@
+/* Feuille de style partagée du cours (composant réutilisable n°1, cf. skill teach) */
+.markdown-rendered { font-feature-settings: "kern", "liga"; }
+.markdown-rendered h1 { border-bottom: 1px solid var(--background-modifier-border); padding-bottom: .3em; }
+
+/* Callout « quiz » : question de rappel, réponse repliée */
+.callout[data-callout="quiz"] { --callout-color: 66, 133, 244; --callout-icon: lucide-help-circle; }
+/* Callout « exercice » : tâche pratique */
+.callout[data-callout="exercice"] { --callout-color: 15, 157, 88; --callout-icon: lucide-dumbbell; }
+/* Callout « source » : ressource primaire recommandée */
+.callout[data-callout="source"] { --callout-color: 139, 0, 0; --callout-icon: lucide-book-open; }
+/* Callout « examen » : lien direct avec l'examen PMLE */
+.callout[data-callout="examen"] { --callout-color: 244, 180, 0; --callout-icon: lucide-award; }
+/* Callout « prof » : rappel de poser des questions à l'agent */
+.callout[data-callout="prof"] { --callout-color: 155, 89, 182; --callout-icon: lucide-message-circle; }
