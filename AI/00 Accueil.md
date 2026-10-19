@@ -1,12 +1,15 @@
 # 🧭 Accueil : parcours ML Engineer
 
 > [!examen] La mission
-> Devenir **ML Engineer** en 6 mois : certification **Google Cloud Professional Machine Learning Engineer** et projet portfolio. Détails dans [[MISSION]].
+> Devenir **AI / Agent Engineer** : agentique avancée, fondations ML solides, certification **Google Cloud Professional Machine Learning Engineer** en 6 mois et un agent en production comme portfolio. Détails dans [[MISSION]].
 
 ## Par où commencer
 1. Lis la [[MISSION]], puis le [[Plan 26 semaines]].
 2. Active la feuille de style du cours : *Réglages → Apparence → Extraits CSS → `cours`*.
-3. Commence la [[0001-entrainer-son-premier-modele|Leçon 1 : entraîner son premier modèle]].
+3. Fais le [[A0 Diagnostic agentique]], puis la [[0001-entrainer-son-premier-modele|Leçon 1 : entraîner son premier modèle]].
+
+## 🤖 Piste Agentique (avancée, ~3 h/semaine)
+[[Piste Agentique]] : [[A0 Diagnostic agentique]] · [[A2 Context engineering et outils]] · [[A3 Évaluer les agents]] · [[A6 Sécurité des agents]] · [[A1 Sous le capot des LLM]] · [[A5 Agents en production sur Google Cloud]] · [[A4 Orchestration multi-agents]] · [[A7 Fine-tuning et RL pour agents]]
 
 ## 🗺️ Modules
 | # | Module | Semaines |
@@ -33,7 +36,7 @@
 - [[Quiz d'entraînement PMLE]]
 
 ## 🎓 Stanford
-[[Parcours Stanford]] : [[CS229]] · [[CS230]] · [[CS231N]] · [[CS224N]] · [[CS336]] · [[CS329S]]
+[[Parcours Stanford]] : [[CS229]] · [[CS230]] · [[CS231N]] · [[CS224N]] · [[CS336]] · [[CS329S]] · [[CS329A]]
 
 ## 📚 Leçons
 - [[0001-entrainer-son-premier-modele|0001 Entraîner son premier modèle]]
@@ -47,4 +50,4 @@ Les leçons suivantes se créent au fil des sessions, adaptées à ta progressio
 [[Antisèche métriques]] · [[Choisir le bon service Google Cloud]] · [[Antisèche pandas NumPy scikit-learn]] · [[Pièges classiques du ML]]
 
 ## 🧰 Suivi
-[[GLOSSAIRE]] · [[RESOURCES]] · [[NOTES]] · learning records : [[0001-point-de-depart]]
+[[GLOSSAIRE]] · [[RESOURCES]] · [[NOTES]] · learning records : [[0001-point-de-depart]] · [[0002-pivot-agent-engineer]]

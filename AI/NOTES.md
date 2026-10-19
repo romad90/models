@@ -5,7 +5,8 @@ Brouillon de l'agent : préférences de l'élève et notes de travail.
 ## Préférences
 - Langue : **français**. Les termes techniques gardent leur nom anglais entre parenthèses la première fois, comme dans [[GLOSSAIRE]], parce que l'examen est en anglais.
 - Navigation dans **Obsidian** : tout passe par des `[[liens wiki]]`, avec [[00 Accueil]] comme carte (MOC).
-- Profil : développeur, nouveau en ML. Objectif emploi.
+- Profil : développeur, **praticien avancé de l'agentique** (agents de code au quotidien, agents en production), nouveau en ML classique. Cible : **AI / Agent Engineer** (voir [[0002-pivot-agent-engineer]]).
+- Relier chaque notion ML à son usage agentique (métriques → évals, entraînement → fine-tuning et distillation, MLOps → agents en production).
 
 ## Adaptations du skill `teach` (Matt Pocock)
 - Le skill prévoit des leçons en **HTML**. Obsidian n'affiche pas le HTML nativement, donc les leçons et les fiches sont en **Markdown** dans `Leçons/` et `Référence/`.

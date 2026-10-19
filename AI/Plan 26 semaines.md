@@ -2,11 +2,24 @@
 
 Retour : [[00 Accueil]] · Mission : [[MISSION]]
 
-Rythme type d'une semaine de 10 h :
-- **4 h** de cours (vidéos et lectures de la source primaire du module)
-- **3 h** de pratique (leçons, notebooks, labs Google Cloud Skills Boost)
-- **2 h** sur le [[Projet fil rouge]]
+Rythme type d'une semaine de 10 h (deux pistes en parallèle) :
+- **5 h** sur la **piste ML/PMLE** (tableaux ci-dessous) : cours, leçons, labs Google Cloud Skills Boost
+- **3 h** sur la **[[Piste Agentique]]** (niveau avancé, voir le tableau juste après)
+- **1 h** sur le [[Projet fil rouge]] (plus pendant les semaines de jalon)
 - **1 h** de rappel actif : refaire les quiz des leçons passées (espacement) et compléter le [[GLOSSAIRE]]
+
+## Piste Agentique en parallèle
+| Semaines | Module agentique | Synergie avec la piste ML |
+|---|---|---|
+| S1 | [[A0 Diagnostic agentique]] | – |
+| S2–S4 | [[A2 Context engineering et outils]] | – |
+| S5–S8 | [[A3 Évaluer les agents]] | Métriques et splits (S6–S7) |
+| S9–S10 | [[A6 Sécurité des agents]] | – |
+| S11–S13 | [[A1 Sous le capot des LLM]] | Deep learning et Transformers |
+| S14–S17 | [[A5 Agents en production sur Google Cloud]] | Google Cloud et Agent Platform |
+| S18–S20 | [[A4 Orchestration multi-agents]] | Pipelines |
+| S21–S23 | [[A7 Fine-tuning et RL pour agents]] | Entraînement à l'échelle |
+| S24 | Synthèse, voir [[M10 IA générative et agents]] | Toute la semaine sur la GenAI et l'examen |
 
 > [!tip] Répétition espacée
 > Chaque dimanche, refais les quiz des leçons de **la semaine passée**, puis de **il y a 3 semaines**. C'est ce qui construit la mémoire à long terme (*storage strength*), pas la relecture.

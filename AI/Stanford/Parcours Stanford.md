@@ -20,7 +20,8 @@ Retour : [[00 Accueil]]
 | 3 | [[CS231N]] Vision | S12 (notes de cours seulement) | CNN, transfer learning · [[M3 Deep learning]] |
 | 4 | [[CS224N]] NLP | S13 puis S24 | Embeddings, Transformers, LLM · [[M3 Deep learning]], [[M10 IA générative et agents]] |
 | 5 | [[CS329S]] ML Systems Design | S17–S23, en parallèle des domaines d'examen | MLOps, entretiens de *system design* · [[M8 Pipelines et MLOps]] |
-| 6 | [[CS336]] Language Modeling from Scratch | Après la certif | Construire un LLM de A à Z |
+| 6 | [[CS329A]] Self-Improving AI Agents | S21–S23 (séances choisies) | Agents qui s'améliorent · [[A7 Fine-tuning et RL pour agents]] |
+| 7 | [[CS336]] Language Modeling from Scratch | S11–S13 (survol), puis après la certif | Construire un LLM de A à Z · [[A1 Sous le capot des LLM]] |
 
 > [!tip] Règle d'or pendant les 6 mois
 > Pendant la préparation, **ne regarde pas les cours en entier**. Prends seulement les cours listés dans chaque fiche. Tout le reste attend le parcours « après la certif ». Le hors-périmètre est défini dans la [[MISSION]].
@@ -29,7 +30,7 @@ Retour : [[00 Accueil]]
 1. **Mois 7–8** : [[CS229]] en entier, avec les *problem sets*, pour réviser les entretiens techniques.
 2. **Mois 8–9** : [[CS224N]] en entier, devoirs inclus (PyTorch).
 3. **Mois 9–10** : [[CS329S]], relu avec le livre de Chip Huyen. Entraîne-toi aux questions de *ML system design*.
-4. **Mois 10–12** : [[CS336]], pour qui vise les postes LLM / IA générative.
+4. **Mois 10–12** : [[CS336]] et [[CS329A]] en entier : c'est le cœur de la cible AI / Agent Engineer (voir [[Piste Agentique]]).
 
 ### Bonus facultatifs
 - **CS25 – Transformers United** : séminaire de conférences invitées sur l'état de l'art des Transformers. Pour la veille, pas pour apprendre. Site : https://web.stanford.edu/class/cs25/ (lien à vérifier)

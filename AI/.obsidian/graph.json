@@ -1,10 +1,47 @@
 {
   "colorGroups": [
-    { "query": "path:Examen", "color": { "a": 1, "rgb": 4359668 } },
-    { "query": "path:Stanford", "color": { "a": 1, "rgb": 9109504 } },
-    { "query": "path:Modules", "color": { "a": 1, "rgb": 1483594 } },
-    { "query": "path:Leçons", "color": { "a": 1, "rgb": 16761095 } },
-    { "query": "path:Référence", "color": { "a": 1, "rgb": 10181046 } }
+    {
+      "query": "path:Examen",
+      "color": {
+        "a": 1,
+        "rgb": 4359668
+      }
+    },
+    {
+      "query": "path:Stanford",
+      "color": {
+        "a": 1,
+        "rgb": 9109504
+      }
+    },
+    {
+      "query": "path:Modules",
+      "color": {
+        "a": 1,
+        "rgb": 1483594
+      }
+    },
+    {
+      "query": "path:Le\u00e7ons",
+      "color": {
+        "a": 1,
+        "rgb": 16761095
+      }
+    },
+    {
+      "query": "path:R\u00e9f\u00e9rence",
+      "color": {
+        "a": 1,
+        "rgb": 10181046
+      }
+    },
+    {
+      "query": "path:Agentique",
+      "color": {
+        "a": 1,
+        "rgb": 14427686
+      }
+    }
   ],
   "showTags": false,
   "showAttachments": false,

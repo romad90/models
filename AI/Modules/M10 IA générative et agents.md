@@ -9,6 +9,9 @@ Retour : [[00 Accueil]] · Précédent : [[M9 Monitoring et IA responsable]] · 
 > [!examen] Pourquoi
 > L'examen de 2026 a été réécrit autour de Gemini Enterprise Agent Platform. L'IA générative traverse plusieurs domaines : choix d'un modèle dans Model Garden, RAG, *fine-tuning*, évaluation et déploiement d'agents. C'est aussi ce que demandent les offres d'emploi.
 
+> [!tip] Version avancée
+> Tu as déjà une pratique agentique : ce module sert de **synthèse orientée examen**. Le fond est traité dans la [[Piste Agentique]] (A1 à A7). En S24, concentre-toi sur les noms de produits Google et les scénarios d'examen.
+
 ## Thèmes
 - LLM : *tokens*, *prompting*, température, fenêtre de contexte
 - **RAG** : embeddings, Vector Search, découpage (*chunking*) et ancrage (*grounding*)
